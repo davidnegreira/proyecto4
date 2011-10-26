@@ -1,2 +1,2 @@
 <?php
-echo "segunda prueba prueba con el nuevo gestor de versiones"; 
+echo "segunda prueba prueba con el nuevo gestor de versionesss"; 
